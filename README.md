@@ -1,6 +1,6 @@
 # AI Article Summarizer Chrome Extension
 
-A lightweight, vanilla JavaScript Chrome extension that extracts text from web articles and uses the Google Gemini API to generate concise summaries.
+A JavaScript Chrome extension that extracts text from web articles and uses the Google Gemini API to generate concise summaries.
 
 ## Features
 
@@ -35,6 +35,6 @@ A lightweight, vanilla JavaScript Chrome extension that extracts text from web a
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 - Chrome Extensions API (Manifest V3)
 - Google Generative AI API (Gemini)
