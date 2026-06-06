@@ -5,10 +5,17 @@
 
     "permissions": ["scripting", "activeTab", "storage"],
 
-    "action": {
-        "default_popup" : "popup.html"
-        
+    "icons": {
+        "128": "favicon.png"
     },
+
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "128": "favicon.png"
+        }
+    },
+    
 
     "content_scripts" :[{
         "matches" : ["<all_urls>"],
